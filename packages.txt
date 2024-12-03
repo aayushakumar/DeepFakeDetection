@@ -1,0 +1,6 @@
+libgl1           # Required for OpenCV to handle graphics
+libglib2.0-0     # For image processing and OpenCV dependencies
+ffmpeg           # For video processing
+libsm6           # OpenCV dependency for shared memory
+libxrender1      # OpenCV dependency for rendering
+libxext6         # OpenCV dependency for X11-based environments
